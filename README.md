@@ -1,4 +1,4 @@
-# Omar Zguit | Full-Stack Web Developer
+# Omar Zguit | Full Stack Development Student
 
 ### *"Code is not just instructions for machines, it shapes ideas into reality."*
 
